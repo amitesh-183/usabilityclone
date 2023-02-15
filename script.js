@@ -1,4 +1,4 @@
-const toggle_btn = document.getElementById("toggle");
+const toggle_btn = document.getElementById("nav-toggle");
 
 const nav_links = document.getElementById("nav-links");
 
