@@ -117,6 +117,7 @@ a {
 .main-nav {
   justify-content: space-between;
   padding: 2rem 0;
+  position: relative;
 }
 
 .company-logo img {
@@ -131,6 +132,10 @@ a {
   margin-left: 0.8rem;
   border-top-left-radius: 100rem;
   border-bottom-left-radius: 100rem;
+}
+
+.nav-toggle {
+  font-size: 1.4rem;
 }
 
 .nav-links {
@@ -378,7 +383,7 @@ li {
 
 footer {
   background-color: #ebf2fa;
-  padding-block: 80px;
+  padding-block: 40px;
 }
 
 .link-col {
